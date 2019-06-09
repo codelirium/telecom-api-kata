@@ -1,2 +1,2 @@
-# telecom-api-kata
-A lean skeleton of a hypothetical telecom API.
+# Telecom API
+A hypothetical lean skeleton of a service for a telecom company.
